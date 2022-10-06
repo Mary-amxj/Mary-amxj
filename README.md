@@ -6,6 +6,7 @@
 - 4) Attention to detail
   5)Strong communication skills
   6)Logical Approach to Work
+
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on different types of Projects to gain my experience in this field
 - 📫 To reach me:Email me on jamalmaryam883@gmail.com

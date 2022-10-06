@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming-language&psig=AOvVaw36zJHo9mLDS5Ui-eqCj8gz&ust=1665164047584000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCRpeaRzPoCFQAAAAAdAAAAABAP" alt="coding" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming-language&psig=AOvVaw36zJHo9mLDS5Ui-eqCj8gz&ust=1665164047584000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNCRpeaRzPoCFQAAAAAdAAAAABAP" alt="" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
